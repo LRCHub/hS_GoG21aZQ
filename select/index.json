@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "hands",
+  "base_artist": "倖田來未",
+  "createdAt": "2026-02-20T16:41:46.375228Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Something To Do With My Hands",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/01_Something_To_Do_With_My_Hands_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Look Mummy, No Hands",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/02_Look_Mummy,_No_Hands_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Jack of Hands",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": false,
+      "path": "select/03_The_Jack_of_Hands_Amanda_Palmer,_Edward_Ka-Spel.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Jack of Hands",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/04_The_Jack_of_Hands_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Calloused Hands",
+      "artist": "Mark Collie",
+      "has_synced": false,
+      "path": "select/05_Calloused_Hands_Mark_Collie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daddy's Hands",
+      "artist": "Holly Dunn",
+      "has_synced": true,
+      "path": "select/06_Daddy's_Hands_Holly_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daddy's Hands (Album Version)",
+      "artist": "Holly Dunn",
+      "has_synced": true,
+      "path": "select/07_Daddy's_Hands_(Album_Version)_Holly_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hands on You",
+      "artist": "Ashley Monroe",
+      "has_synced": true,
+      "path": "select/08_Hands_on_You_Ashley_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Washed My Hands In Muddy Water",
+      "artist": "Stonewall Jackson",
+      "has_synced": true,
+      "path": "select/09_I_Washed_My_Hands_In_Muddy_Water_Stonewall_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep Your Hands to Yourself",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/10_Keep_Your_Hands_to_Yourself_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Look Heart, No Hands",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/11_Look_Heart,_No_Hands_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Look Heart, No Hands (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/12_Look_Heart,_No_Hands_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands",
+      "artist": "Lee Greenwood",
+      "has_synced": false,
+      "path": "select/13_Ring_On_Her_Finger,_Time_On_Her_Hands_Lee_Greenwood.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/14_Ring_On_Her_Finger,_Time_On_Her_Hands_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/15_Ring_On_Her_Finger,_Time_On_Her_Hands_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hands",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_hands_倖田_來未.txt"
+    }
+  ]
+}
